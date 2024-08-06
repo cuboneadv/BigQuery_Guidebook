@@ -1,4 +1,4 @@
-# Google BigQuery 가이드북: 데이터로 풀어보는 소비자 행동분석
+## Google BigQuery 가이드북: 데이터로 풀어보는 소비자 행동분석
 Google BigQuery 가이드북과 관련된 내용을 정리한 공간입니다. <br>
 
 ## 개요
